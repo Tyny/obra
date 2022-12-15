@@ -1,3 +1,5 @@
+// que pasa si asigno un vec![]? y si asigno un String? y si asigno un &str?
+
 fn main() {
-    println!("Hello, world!");
+    println!("Aguante factic!");
 }

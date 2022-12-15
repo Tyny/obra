@@ -1,5 +1,5 @@
 // armemos bardo, cambiemosle el return type a la main function
 
 fn main() {
-    println!("Hello, world!");
+    println!("Hola compas!");
 }

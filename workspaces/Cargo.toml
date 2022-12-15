@@ -3,5 +3,6 @@
 members = [
     "compilado_y_fuertemente_tipado",
     "lifetimes",
-    "ownership"
+    "ownership",
+    "borrowing"
 ]
